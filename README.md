@@ -2,4 +2,4 @@ hello
 
 i like coding
 
-it's fun
+i think it's fun

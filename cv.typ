@@ -44,13 +44,13 @@
   institution: "Uniwersytet Kardynała Stefana Wyszyńskiego",
   location: "Warsaw, Poland",
   dates: dates-helper(start-date: "Oct 2021", end-date: "Jul 2025"),
-  degree: "Bachelor's of Science, Computer Science",
+  degree: "Bachelor of Science, Computer Science",
 )
 
-- Learned mathematical basis for programming and relevant data structures and algorithms.
-- Programming languages learned as part of courses: C, C++, Python, MySQL.
-- During the second semester as part of a personal project created a React + Electron app written in TypeScript.
-- Application that was a part of the Bachelor's Thesis was an iOS app written in Swift using SwiftUI.
+- Strong foundation in algorithms, data structures, and mathematical principles of computer science.
+- Proficient in C, C++, Python, and MySQL through coursework and hands-on projects.
+- Developed React + Electron desktop application using TypeScript during second semester.
+- Created iOS flashcard application in Swift/SwiftUI as Bachelor's Thesis project.
 
 
 #edu(
@@ -64,16 +64,40 @@
 - Learned basics of C++, PHP, .NET and SQL.
 
 
+== Skills
+
+- *Human Languages*: 🇵🇱 Polish --- Native, 🇺🇸 English --- C1
+
+- *Programming Languages:* TypeScript, JavaScript, Python, Swift, C++, C, Rust, SQL, Dart
+
+- *Frontend:* React, Flutter, SwiftUI, HTML/CSS
+
+- *Backend & Tools:* Node.js, Firebase, Tauri, Electron, Playwright, Redux
+
+- *Other:* Git, REST APIs, Test Automation, Agile Development
+
+- *AI-Assisted Programming*: GitHub Copilot, Claude
+
 == Work Experience
 
 #work(
   title: "Full-stack Developer",
   location: "Warsaw, Poland",
-  company: "Grafit Agency",
-  dates: dates-helper(start-date: "Mar", end-date: "Oct 2021"),
+  company: "iQor Polska Sp. z o.o.",
+  dates: dates-helper(start-date: "Oct 2025", end-date: "Present"),
 )
 
-- Created an item renting mobile app and website using Flutter and Firebase
+- Front-end development using *React* and *TypeScript*
+- Creating test suites using *Playwright* for an existing product
+
+#work(
+  title: "Full-stack Developer",
+  location: "Warsaw, Poland",
+  company: "Grafit Agency",
+  dates: dates-helper(start-date: "Mar 2021", end-date: "Oct 2021"),
+)
+
+- Built cross-platform item rental application (mobile and web) using *Flutter* and *Firebase*
 
 
 
@@ -81,19 +105,19 @@
   title: "Front-end Developer",
   location: "Warsaw, Poland",
   company: "SWAP",
-  dates: dates-helper(start-date: "Jul", end-date: "Dec 2019"),
+  dates: dates-helper(start-date: "Jul 2019", end-date: "Dec 2019"),
 )
 
-- Created a front-end for new social media using React and TypeScript
+- Developed responsive front-end for social media platform using *React* and *TypeScript*
 
 #work(
-  title: "Intern",
+  title: "Software Engineering Intern",
   location: "Warsaw, Poland",
   company: "IBM",
-  dates: dates-helper(start-date: "Jul", end-date: "Sep 2018"),
+  dates: dates-helper(start-date: "Jul 2018", end-date: "Sep 2018"),
 )
 
-- Worked on POC web apps developed using React and Redux
+- Developed proof-of-concept web applications using *React* and *Redux*
 
 
 == Projects
@@ -104,9 +128,9 @@
   dates: dates-helper(start-date: "Oct 2024", end-date: "Jun 2025"),
 )
 
-- An iOS app made in SwiftUI that's a part of my bachelor's thesis.
-- It's an app for creating, storing, and managing flashcards. It allows for
-  studying using active recall.
+- iOS flashcard application built with *SwiftUI* as part of Bachelor's Thesis.
+- Enables users to create, store, and study flashcards using active recall methodology.
+- Implements spaced repetition algorithms for optimized learning.
 
 #project(
   name: "graphstuff",
@@ -114,9 +138,9 @@
   dates: dates-helper(start-date: "May 2023", end-date: "Jun 2024"),
 )
 
-- Project created as part of personal project course at UKSW.
-- Desktop app using TypeScript, React, and Tauri for visually creating graphs
-  and checking their various properties.
+- Desktop application for visual graph creation and analysis built with *TypeScript*, *React*, and *Tauri*.
+- Provides interactive tools for exploring graph properties and algorithms.
+- Developed as university personal project demonstrating cross-platform development skills.
 
 #project(
   name: "game_of_life_to_video",
@@ -124,9 +148,9 @@
   dates: "Jan 2024",
 )
 
-- Project created as part of a Python course at UKSW.
-- It's dedicated to executing a game of life and creating a video out of it. It
-  can be used both as a command line tool and as a library
+- *Python* library and CLI tool for simulating Conway's Game of Life and generating video output.
+- Supports both programmatic usage and command-line interface for flexibility.
+- Created as coursework demonstrating Python proficiency and video processing capabilities.
 
 #project(
   name: "Lemmur",
@@ -135,9 +159,9 @@
   dates: dates-helper(start-date: "Aug 2021", end-date: "Oct 2022"),
 )
 
-- A mobile Flutter app for Lemmy --- a forum and link aggregator for the fediverse
-- Support multiple instances with a special section combining them info a single feed
-- The project received a €10 000 grant as part of NGI0 Discovery fund:
+- Open-source mobile *Flutter* app for Lemmy, a federated forum and link aggregator.
+- Implemented multi-instance support with unified feed aggregation across platforms.
+- Secured €10,000 grant from NGI0 Discovery fund:
   #link("https://nlnet.nl/project/Lemmur/")[nlnet.nl/project/Lemmur]
 
 
@@ -147,27 +171,28 @@
   dates: dates-helper(start-date: "Oct 2018", end-date: "Dec 2018"),
 )
 
-- Batch flickr downloader written in TypeScript that uses Puppeteer for
-  traversing the website.
+- Batch Flickr downloader written in *TypeScript* using *Puppeteer* for web automation.
+- Efficiently downloads multiple images with automated navigation and parsing.
 
 
 #project(
   name: "ez-renamer",
   url: "github.com/krawieck/ez-renamer",
-  dates: dates-helper(start-date: "", end-date: ""),
+  dates: dates-helper(start-date: "2019", end-date: "2020"),
 )
 
-- CLI tool for renaming batch renaming video files downloaded from the internet. Written in Rust.
+- *Rust* CLI tool for batch renaming video files with smart pattern matching.
+
 
 #project(
   name: "aym",
   url: "github.com/krawieck/aym",
-  dates: dates-helper(start-date: "", end-date: ""),
+  dates: "2019",
 )
 
-- CLI tool for checking if a video will pass YouTube monetization guidelines written in TypeScript.
-- Splits video into frames using ffmpeg and uses Google Vision API to check if
-  they contain inapropriate material.
+- *TypeScript* CLI tool for validating videos against YouTube monetization guidelines.
+- Integrates ffmpeg for frame extraction and Google Vision API for content analysis.
+- Automates compliance checking for content creators.
 
 
 
@@ -210,8 +235,7 @@
 //   date: "Oct 2024",
 // )
 
-== Skills
-- *Languages*: 🇵🇱 Polish --- Native, 🇺🇸 English --- C1
-- *Programming Languages*: JavaScript/TypeScript, HTML/CSS, Dart, Swift, Python, C/C++, Bash, Powershell
-- *Technologies*: React, Flutter, SwiftUI, SwiftData, Tailwind CSS, Git
+== Additional info
+
 - *Hobbies*: Sailing, FPV Drones, Urbanism
+- *Cat names*: Mufka, Cleo, Leon

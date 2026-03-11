@@ -133,7 +133,7 @@
 - Implements spaced repetition algorithms for optimized learning.
 
 #project(
-  name: "graphstuff",
+  name: "Graphstuff",
   url: "github.com/krawieck/graphstuff",
   dates: dates-helper(start-date: "May 2023", end-date: "Jun 2024"),
 )
@@ -143,7 +143,7 @@
 - Developed as university personal project demonstrating cross-platform development skills.
 
 #project(
-  name: "game_of_life_to_video",
+  name: "Game_of_life_to_video",
   url: "github.com/krawieck/game_of_life_to_video",
   dates: "Jan 2024",
 )
@@ -166,7 +166,7 @@
 
 
 #project(
-  name: "flickr-dl",
+  name: "Flickr-dl",
   url: "github.com/krawieck/flickr-dl",
   dates: dates-helper(start-date: "Oct 2018", end-date: "Dec 2018"),
 )
@@ -176,7 +176,7 @@
 
 
 #project(
-  name: "ez-renamer",
+  name: "Ez-renamer",
   url: "github.com/krawieck/ez-renamer",
   dates: dates-helper(start-date: "2019", end-date: "2020"),
 )
@@ -185,7 +185,7 @@
 
 
 #project(
-  name: "aym",
+  name: "Aym",
   url: "github.com/krawieck/aym",
   dates: "2019",
 )

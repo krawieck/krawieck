@@ -70,7 +70,7 @@
 
 - *Programming Languages:* TypeScript, JavaScript, Python, Swift, C++, C, Rust, SQL, Dart
 
-- *Frontend:* React, Flutter, SwiftUI, HTML/CSS
+- *Frontend:* React, Next.js, Flutter, SwiftUI, HTML/CSS
 
 - *Backend & Tools:* Node.js, Firebase, Tauri, Electron, Playwright, Redux
 
@@ -87,7 +87,7 @@
   dates: dates-helper(start-date: "Oct 2025", end-date: "Present"),
 )
 
-- Front-end development using *React* and *TypeScript*
+- Front-end development using *React* (*Next.js*) and *TypeScript*
 - Creating test suites using *Playwright* for an existing product
 
 #work(

@@ -74,9 +74,11 @@
 
 - *Backend & Tools:* Node.js, Firebase, Tauri, Electron, Playwright, Redux
 
-- *Other:* Git, REST APIs, Test Automation, Agile Development
+- *Development Tools*: Visual Studio Code, Xcode
 
-- *AI-Assisted Programming*: GitHub Copilot, Claude
+- *AI-Assisted Programming*: GitHub Copilot, Codex
+
+- *Other:* Git, REST APIs, Test Automation, Agile Development
 
 == Work Experience
 
@@ -89,6 +91,8 @@
 
 - Front-end development using *React* (*Next.js*) and *TypeScript*
 - Creating test suites using *Playwright* for company's existing products
+- Managing tickets with *Jira* and *Azure DevOps*
+- Working within *Scrum* methodology across daily stand-ups, planning, and retrospectives
 
 #work(
   title: "Full-stack Developer",

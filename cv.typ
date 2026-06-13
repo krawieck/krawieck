@@ -92,7 +92,7 @@
 - Front-end development using *React* (*Next.js*) and *TypeScript*
 - Creating test suites using *Playwright* for company's existing products
 - Managing tickets with *Jira* and *Azure DevOps*
-- Working within *Scrum* methodology across daily stand-ups, planning, and retrospectives
+- Working within *Scrum* methodology
 
 #work(
   title: "Full-stack Developer",
